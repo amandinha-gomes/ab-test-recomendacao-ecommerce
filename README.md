@@ -36,6 +36,7 @@ ab-test-recomendacao-ecommerce/
 │
 ├── ab_data.csv                # Dataset do teste A/B
 ├── teste-hipotese.py          # Script principal com o teste estatístico
+├── \images                    # Pasta com gráfico da evolução da taxa de conversão
 ├── README.md                  # Documentação do projeto
 ```
 
