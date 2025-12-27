@@ -34,10 +34,10 @@ Avaliar se a **versão nova do site**, que inclui um sistema de recomendação d
 ```
 ab-test-recomendacao-ecommerce/
 │
-├── ab_data.csv                # Dataset do teste A/B
-├── teste-hipotese.py          # Script principal com o teste estatístico
-├── /images                    # Pasta com gráfico da evolução da taxa de conversão
-├── README.md                  # Documentação do projeto
+├── ab_data.csv                   # Dataset do teste A/B
+├── teste-hipotese.py             # Script principal com o teste estatístico
+├── evolucao_taxa_conversao.png   # Gráfico da evolução da taxa de conversão
+├── README.md                     # Documentação do projeto
 ```
 
 ---
@@ -74,7 +74,7 @@ Apesar dessas oscilações pontuais, não foi observada uma tendência consisten
 
 ## 📈 Evolução da Taxa de Conversão
 
-![Evolução da Taxa de Conversão](images.zip/evolucao_taxa_conversao.png)
+![Evolução da Taxa de Conversão](evolucao_taxa_conversao.png)
 
 ### Teste estatístico
 
