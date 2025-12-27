@@ -76,6 +76,10 @@ Apesar dessas oscilações pontuais, não foi observada uma tendência consisten
 
 ![Evolução da Taxa de Conversão](evolucao_taxa_conversao.png)
 
+Este gráfico apresenta a evolução da taxa de conversão ao longo do tempo,
+comparando os grupos **controle** e **tratamento**, permitindo avaliar o impacto
+da intervenção aplicada.
+
 ### Teste estatístico
 
 * **Z-statistic:** 0,6781
