@@ -36,7 +36,7 @@ ab-test-recomendacao-ecommerce/
 │
 ├── ab_data.csv                # Dataset do teste A/B
 ├── teste-hipotese.py          # Script principal com o teste estatístico
-├── \images                    # Pasta com gráfico da evolução da taxa de conversão
+├── /images                    # Pasta com gráfico da evolução da taxa de conversão
 ├── README.md                  # Documentação do projeto
 ```
 
@@ -71,6 +71,10 @@ Apesar dessas oscilações pontuais, não foi observada uma tendência consisten
 
 * **Controle:** 11,83%
 * **Tratamento:** 11,21%
+
+## 📈 Evolução da Taxa de Conversão
+
+![Evolução da Taxa de Conversão](images/evolucao_taxa_conversao.png)
 
 ### Teste estatístico
 
