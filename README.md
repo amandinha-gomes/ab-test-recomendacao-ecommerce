@@ -74,7 +74,7 @@ Apesar dessas oscilações pontuais, não foi observada uma tendência consisten
 
 ## 📈 Evolução da Taxa de Conversão
 
-![Evolução da Taxa de Conversão](images/evolucao_taxa_conversao.png)
+![Evolução da Taxa de Conversão](images.zip/evolucao_taxa_conversao.png)
 
 ### Teste estatístico
 
